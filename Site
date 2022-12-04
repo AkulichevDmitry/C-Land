@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C++ Land</title>
+</head>
+<body style="background-color:#DCE7EF">
+    <header>
+        <h1 style="font-size:60px;text-align:center;font-size:70px">Сайт о программировании</h1>  
+    </header>
+    <main>
+        <a  href="https://ru.wikipedia.org/wiki/C%2B%2B"><img style="text-align:left;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="350px"></a><br><br>
+        
+        
+            <h2 style="font-size:50px;color:#798EF0">О C++<h2>
+        <dev About C++>
+                <h3>История</h3>
+
+                <p style="font-size:35px;">C++ один из самых популярныя языков программирования,но как он возник и почему именно С++?<br>На самом деле у плюсов очень большая родословная,однако первые родственники это C,C# и D,однако все они возникли от языков <strong>A</strong> <strong></strong> и <strong>B</strong>,но сам С++ возник от C</p> 
+
+                <h3 style="font-size:53;">D</h3>   
+
+                <p style="font-size:35px;">У С++ есть так называемый наследник,это <strong>D</strong>. Хотя на данный момент он популярности не возымел,но ему прогнозируют большое будующее</p> 
+
+
+        </dev>
+        <dev Lessons style="background-color:darkgray;">
+            <h1 style="font-size:45px">1 урок.Базовая структура С++ </h1>
+                <p>#include  &#60;iostream&#62;- подключение основной библиотеки</p><br>
+
+                <p style="background-color:darkgray;">int main() { <br>          
+                }</p>
+                <p>Оновная функция где будут выполнятся ваш код</p> 
+        </dev>  
+
+
+
+    </main>
+    <footer style="background-color:#BCEBF5">
+        <h2>Хотите больше узнать о С++?</h2>
+            <p style="font-size:30px">Нажмите <a href="https://learn.microsoft.com/ru-ru/cpp/cpp/cpp-language-reference?ranMID=43674&ranEAID=FE4O7wtxe6g&ranSiteID=FE4O7wtxe6g-I39.gg28wtXm85gPLKMZkA&epi=FE4O7wtxe6g-I39.gg28wtXm85gPLKMZkA&irgwc=1&OCID=AID2200057_aff_7795_1243925&tduid=(ir__1n29jfu0nkkfb2vteoick20kn22xcwo19o2ehdxp00)(7795)(1243925)(FE4O7wtxe6g-I39.gg28wtXm85gPLKMZkA)()&irclickid=_1n29jfu0nkkfb2vteoick20kn22xcwo19o2ehdxp00&view=msvc-170">сюда</a></p>
+    </footer>
+</body>
+</html>
